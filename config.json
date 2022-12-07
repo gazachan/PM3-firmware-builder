@@ -1,14 +1,7 @@
 {
     "//": "You will get len(refs) * len(standaloneList) firmwares",
-    "refs": [
-        "master",
-        "v4.15864",
-        "v4.13441"
-    ],
-    "standaloneList": [
-        "HF_14ASNIFF",
-        "LF_SAMYRUN"
-    ],
+    "refs": ["master"],
+    "standaloneList": ["HF_MATTYRUN"],
     "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM": "PM3GENERIC",
     "//": "parameter for all firmware, leave it blank to use the default value",
